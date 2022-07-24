@@ -3,8 +3,8 @@ This is my portfolio build on React Framework.
 
 See the project screenshots below:
 
-![screenshot](./assets/img/screenshot1.png)
-![screenshot](./assets/img/screenshot2.png)
+![screenshot](https://github.com/white3d/My-Portfolio/blob/main/assets/img/screenshot1.png)
+![screenshot](https://github.com/white3d/My-Portfolio/raw/main/assets/img/screenshot2.png)
 
 ## Built With
 
