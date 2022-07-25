@@ -106,7 +106,7 @@ function t() {
     if (Typer.index > Typer.text.length) {
         clearInterval(timer);
         setTimeout(() => {
-            window.location.replace("http://edwardodhiambo.com/home");
+            window.location.replace("https://www.edwardodhiambo.com/home");
         }, 2500);
     }
 }
