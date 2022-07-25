@@ -4,12 +4,17 @@ import Profile from "../images/Passport_Edward.png"
 
 const Home = () => {
     return (
-        <div>
-            <div className="col-md-8">
+        <div style={{
+            display: "flex",
+            justifyContent: "space-around",
+            alignItems: "flex-start",
+            flexDirection: "row",
+            backgroundColor: "#000"
+        }}>
+            <div>
                 <div id="console"> </div>
             </div>
             <div
-                className="col-md-4 pull-right"
                 id="image"
                 style={{
                     height: "300px",
