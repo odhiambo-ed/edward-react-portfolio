@@ -1,14 +1,27 @@
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> sudo Odhiambo_Edward alias <span id="a">whit3d</span>
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cd My_Profile
 <span id="a">whit3d@kali</span>:<span id="b">~</span><span id="c">$</span> cat About_Me.txt<br/><br/>
-ODHIAMBO EDWARD, MScITM/CEH "<a id="k" href="https://www.edwardodhiambo.com/home">Resume</a>". <!-- sjkfhskjf -->
+ODHIAMBO EDWARD, Software Engineer "<a id="k" href="https://www.edwardodhiambo.com/home">See My Resume</a>".
 
-I am Odhiambo Edward, Cyber Security Enthusiast with 4 years' experience and top-notch skills in Cyber Security Solutions;<br><br>   Network Firewalls,<br> Internet Traffic Protection Systems,<br> Protected Remote Access,<br> Security Event Monitoring Systems and<br> Intrusion Prevention Systems..<!-- laglaglaglaglaglaglaglaglaglaglaglag --><br>
+I am Odhiambo Edward, a talented Full-Stack Software Developer yearning for codes. 
+A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. 
+A student at Microverse with experience leading teams in driving Software development, 
+team collaboration and exposure to job market. 
+I seek to bring knowledge and abilities to any new position with a growing team. I am open to new opportunities.<br><br> 
 
-<p> Experienced in leading teams driving Software, Hardware and IT related projects. Seeking to bring knowledge, expertise, problem solving skills and keenness to all cyber security tasks. A meticulous professional with passion for security architecture.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+I've developed extensive knowledge in:<br> 
+- Front-End: JavaScript, React, Redux, JQuery, HTML5, CSS3, Bootstrap, Semantic UI, Material UI<br> 
+- Back-End: Ruby, Rails, MySQL<br> 
+- Tools & Methods: Git, GitHub, Heroku, Netlify, Mobile Development, Spec, TDD, Chrome Dev Tools<br> 
+- Professional: Remote Pair-Programming, Teamwork, Mentoring.<br> 
 
-<p>MY PROJECTS <br><br><br>See some of my projects on GitHub. <a href="https://github.com/white3d"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> My professional social media profiles: <br> <a href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/">LinkedIn</a> <br>
+I am open for exploring exciting Full-stack development opportunities in startups as well as companies with scale.<br><br>
+
+Looking for a developer? Simply hit my <a href="https://www.linkedin.com/in/edward-odhiambo/">LinkedIn</a> inbox and I will get back to you promptly !<br><br>
+
+<p>MY PROJECTS <br><br><br>
+See some of my projects on GitHub. <a href="https://github.com/white3d"> Here you go</a>.</p>
+<p> My professional social media profiles: <br> <a href="https://www.linkedin.com/in/edward-odhiambo/">LinkedIn</a> <br>
 <a href="https://www.hackerrank.com/odhiambo_ed">HackerRank</a><br>
 <a href="https://twitter.com/odhiambo_ed">Twitter</a> and <br> <a href="https://github.com/white3d">GitHub</a>.</p>
 
