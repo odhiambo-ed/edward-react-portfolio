@@ -6,6 +6,11 @@ See the project screenshots below:
 ![screenshot](https://github.com/white3d/My-Portfolio/blob/main/assets/img/screenshot1.png)
 ![screenshot](https://github.com/white3d/My-Portfolio/raw/main/assets/img/screenshot2.png)
 
+## Demo Link
+
+[Portfolio Website](https://www.edwardodhiambo.com)
+
+
 ## Built With
 
 - Major languages - `HTML`, `CSS` and `React`
@@ -18,7 +23,7 @@ Use this url to clone the repo on your terminal: `https://github.com/white3d/edw
 
 👤 **Edward Odhiambo**
 
-[Portfolio Website](https://odhiambo-edward.netlify.app/)
+[Portfolio Website](https://www.edwardodhiambo.com)
 
 - GitHub: [@whit3d](https://github.com/white3d)
 - Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
