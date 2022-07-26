@@ -11,7 +11,7 @@ I seek to bring knowledge and abilities to any new position with a growing team.
 
 I've developed extensive knowledge in:<br> 
 - Front-End: <span id="a">JavaScript</span>, <span id="a">React</span>, <span id="a">Redux</span>, <span id="a">JQuery</span>, <span id="a">HTML5</span>, <span id="a">CSS3</span>, <span id="a">Bootstrap</span>, <span id="a">Semantic UI</span>, <span id="a">Material UI</span><br> 
-- Back-End: <span id="a">Ruby</span>, <span id="a">Rails</span>, <span id="a">MySQL</span><br> 
+- Back-End: <span id="a">Ruby</span>, <span id="a">Ruby on Rails</span>, <span id="a">SQL</span><br> 
 - Tools & Methods: <span id="a">Git</span>, <span id="a">GitHub</span>, <span id="a">Heroku</span>, <span id="a">Netlify</span>, <span id="a">Mobile Development</span>, <span id="a">Spect</span>, <span id="a">TDD</span>, <span id="a">Chrome Dev Tool</span>s<br> 
 - Professional: <span id="a">Remote Pair-Programming</span>, <span id="a">Teamwork</span>, <span id="a">Mentoring</span>.<br> 
 

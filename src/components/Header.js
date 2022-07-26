@@ -20,7 +20,7 @@ const Header = () => {
             <i className="bx bxl-github" />
           </a>
           <a
-            href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/"
+            href="https://www.linkedin.com/in/edward-odhiambo/"
             className="linkedin"
           >
             <i className="bx bxl-linkedin" />
