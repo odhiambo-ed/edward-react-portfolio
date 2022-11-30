@@ -107,6 +107,6 @@ function t() {
         clearInterval(timer);
         setTimeout(() => {
             window.location.replace("https://www.edwardodhiambo.com/home");
-        }, 2500);
+        }, 1000);
     }
 }
