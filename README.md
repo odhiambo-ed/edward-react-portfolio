@@ -1,10 +1,11 @@
 # My-Portfolio
+
 >This is my portfolio build on React Framework. It entails a compilation of my skills, qualifications, education, training and experiences. It has a clear insight into my personality and work ethic.
 
 See the project screenshots below:
 
-![screenshot](https://github.com/white3d/My-Portfolio/blob/main/assets/img/screenshot1.png)
 ![screenshot](/term.png)
+![screenshot](https://github.com/white3d/My-Portfolio/blob/main/assets/img/screenshot1.png)
 
 ## Demo Link
 
