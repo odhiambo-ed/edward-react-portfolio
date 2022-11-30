@@ -78,7 +78,7 @@ const Resume = () => {
           <h3 className="resume-title">Professional Experience</h3>
           <div className="resume-item">
             <h4>FullStack Web Developer</h4>
-            <h5>Feb, 2022 - Present</h5>
+            <h5>Feb, 2022 - Oct, 2022</h5>
             <p>
               <em>MICROVERSE, San Francisco, US </em>
             </p>

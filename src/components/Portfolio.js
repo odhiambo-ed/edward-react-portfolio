@@ -34,6 +34,81 @@ const Portfolio = () => {
         <div className="col-lg-4 col-md-6 portfolio-item filter-app">
           <div className="portfolio-wrap">
             <img
+              src="assets/img/portfolio/ecom.png"
+              className="img-fluid"
+              alt="prof"
+            />
+            <div className="portfolio-links">
+              <a
+                href="assets/img/portfolio/ecom.png"
+                data-gallery="portfolioGallery"
+                className="portfolio-lightbox"
+                title="Fake Terminal Portfolio"
+              >
+                <i className="bx bx-plus" />
+              </a>
+              <a
+                href="https://github.com/white3d/react-ecommerce-app"
+                title="More Details"
+              >
+                <i className="bx bx-link" />
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div className="portfolio-wrap">
+            <img
+              src="assets/img/portfolio/chat1.png"
+              className="img-fluid"
+              alt="prof"
+            />
+            <div className="portfolio-links">
+              <a
+                href="assets/img/portfolio/chat1.png"
+                data-gallery="portfolioGallery"
+                className="portfolio-lightbox"
+                title="Fake Terminal Portfolio"
+              >
+                <i className="bx bx-plus" />
+              </a>
+              <a
+                href="https://github.com/white3d/code-chat-app"
+                title="More Details"
+              >
+                <i className="bx bx-link" />
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div className="portfolio-wrap">
+            <img
+              src="assets/img/portfolio/book.png"
+              className="img-fluid"
+              alt="prof"
+            />
+            <div className="portfolio-links">
+              <a
+                href="assets/img/portfolio/book.png"
+                data-gallery="portfolioGallery"
+                className="portfolio-lightbox"
+                title="Fake Terminal Portfolio"
+              >
+                <i className="bx bx-plus" />
+              </a>
+              <a
+                href="https://github.com/white3d/React-Rails-API-BookStore"
+                title="More Details"
+              >
+                <i className="bx bx-link" />
+              </a>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div className="portfolio-wrap">
+            <img
               src="assets/img/portfolio/portfolio-1.jpg"
               className="img-fluid"
               alt="prof"
